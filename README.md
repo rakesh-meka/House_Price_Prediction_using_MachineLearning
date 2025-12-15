@@ -46,21 +46,7 @@ Each stage is implemented in **separate notebooks** for clarity and modularity.
 - Scikit-learn  
 
 ### Environment
-- Jupyter Notebook  
-
----
-
-## 📂 Project Structure
-
-├── Exploratory_Data_Analysis.ipynb
-├── Feature_Engineering.ipynb
-├── Feature_Selection.ipynb
-├── X_train_Dataset.csv
-├── HousePriceTrainDataSet.csv
-├── README.md
-
----
-
+- Jupyter Notebook 
 ## 📈 Models Implemented
 
 - Linear Regression  
